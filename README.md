@@ -33,3 +33,10 @@ Após uma breve análise de mercado, chegamos a conclusão que muitas adegas pas
 ![image](https://user-images.githubusercontent.com/112988370/206028731-ccd3ab49-7de3-4977-a28d-cb6986a781ff.png)
 # Documento / Desenvolvimento MajorWeb
 https://docs.google.com/document/d/1zTRAtl93Xkopo78nNwoljNdY3KPCFFDYnkefLbOi_vw/edit?usp=sharing
+# Integrantes do Grupo
+Abner Lemos RA:422210211 (SALA RAFAELA)
+Gabriel Arthur de Carvalho RA: 42210882
+Patrick Soares Esteves RA: 422142107
+Matheus de Barros Silva RA:422221475
+João Henrique Dias RA:42115819 (SALA RAFAELA)
+Allan Cunha Alves RA:422222468
