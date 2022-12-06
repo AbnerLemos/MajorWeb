@@ -31,3 +31,5 @@ Após uma breve análise de mercado, chegamos a conclusão que muitas adegas pas
 ![image](https://user-images.githubusercontent.com/112988370/206028629-b9dbb4c1-161d-475a-8d79-c8c7dba53a7e.png)
 # Diagrama de Sequencia
 ![image](https://user-images.githubusercontent.com/112988370/206028731-ccd3ab49-7de3-4977-a28d-cb6986a781ff.png)
+# Documento / Desenvolvimento MajorWeb
+https://docs.google.com/document/d/1zTRAtl93Xkopo78nNwoljNdY3KPCFFDYnkefLbOi_vw/edit?usp=sharing
